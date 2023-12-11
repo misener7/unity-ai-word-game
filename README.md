@@ -10,7 +10,7 @@
 也可以换用自己喜欢的素材
 
 ### 2.1 项目的主要代码
-![微信图片_20231211165537](https://github.com/misener7/unity-ai-word-game/assets/10563376/e67bc22f-3f03-4016-ada0-5663ae0f0c76)
+https://github.com/misener7/unity-ai-word-game/blob/main/%E6%8E%A5%E5%8F%A3%E8%B0%83%E7%94%A8.png
 
 ![微信图片_20231211165918](https://github.com/misener7/unity-ai-word-game/assets/10563376/0422dcfa-6c62-4cf7-adb9-7a840a552e1e)
 
