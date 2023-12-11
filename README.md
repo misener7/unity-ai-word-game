@@ -5,14 +5,12 @@
 要求unity2022.3及以上版本
 
 ## 2. 工具内置功能说明
-这个工具的素材用的是unity商店https://assetstore.unity.com/zh里面的资源实现的简单开发。
-比如我用的是Cute 2D Girl - Wizard
-也可以换用自己喜欢的素材
+这个工具的素材用的是unity商店https://assetstore.unity.com/zh
+里面的资源实现的简单开发。比如我用的是Cute 2D Girl - Wizard，也可以换用自己喜欢的素材
 
 ### 2.1 项目的主要代码
-https://github.com/misener7/unity-ai-word-game/blob/main/%E6%8E%A5%E5%8F%A3%E8%B0%83%E7%94%A8.png
-
-![微信图片_20231211165918](https://github.com/misener7/unity-ai-word-game/assets/10563376/0422dcfa-6c62-4cf7-adb9-7a840a552e1e)
+![image](https://github.com/misener7/unity-ai-word-game/blob/main/%E6%8E%A5%E5%8F%A3%E8%B0%83%E7%94%A8.png)
+![image](https://github.com/misener7/unity-ai-word-game/blob/main/%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95.png)
 
 ### 参考资料
 #### unity入门和使用：https://gu32jk6rq1.feishu.cn/docx/IrPed4W3uoycl3xvivWcwOaBnNd
