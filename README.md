@@ -16,7 +16,7 @@
 
 ### 参考资料
 #### unity入门和使用：https://gu32jk6rq1.feishu.cn/docx/IrPed4W3uoycl3xvivWcwOaBnNd
-#### 百度智能云平台：https://login.bce.baidu.com/?account=&redirect=http%3A%2F%2Fconsole.bce.baidu.com%2Fqualify%2F#/qualify/index
+#### 百度智能云平台：https://login.bce.baidu.com
 #### 负基础学Unity4，做Galgame(文字游戏)：https://www.bilibili.com/video/BV1u44y1g7WC/?spm_id_from=333.880.my_history.page.click
 
 #### ps：如果是自己训练的大模型或者想更换成其它平台的api，可以将千帆接口替换成相应接口即可。
