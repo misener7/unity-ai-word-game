@@ -10,6 +10,7 @@
 
 ### 2.1 项目的主要代码
 ![image](https://github.com/misener7/unity-ai-word-game/blob/main/%E6%8E%A5%E5%8F%A3%E8%B0%83%E7%94%A8.png)
+
 ![image](https://github.com/misener7/unity-ai-word-game/blob/main/%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95.png)
 
 ### 参考资料
